@@ -1,17 +1,17 @@
 {
-  "name": "Studio",
-  "blurb": "Lead story beside a compact reading list.",
-  "template": "editorial",
-  "accent": "#18584c",
-  "accentDark": "#80d6b8",
+  "name": "Library",
+  "blurb": "A quiet, year-by-year archive for long-running blogs.",
+  "template": "paper",
+  "accent": "#8b382a",
+  "accentDark": "#f3af9d",
   "fonts": {
-    "body": "Source Serif 4",
-    "heading": "Space Grotesk"
+    "body": "Newsreader",
+    "heading": "Fraunces"
   },
   "layout": {
     "width": "narrow",
-    "indexStyle": "spotlight",
-    "postHeader": "banner",
+    "indexStyle": "archive",
+    "postHeader": "minimal",
     "toc": "auto",
     "showProfile": true
   },
