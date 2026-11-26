@@ -1,0 +1,19 @@
+{
+  "name": "Studio",
+  "blurb": "Lead story beside a compact reading list.",
+  "template": "editorial",
+  "accent": "#18584c",
+  "accentDark": "#80d6b8",
+  "fonts": {
+    "body": "Source Serif 4",
+    "heading": "Space Grotesk"
+  },
+  "layout": {
+    "width": "narrow",
+    "indexStyle": "spotlight",
+    "postHeader": "banner",
+    "toc": "auto",
+    "showProfile": true
+  },
+  "defaultMode": "auto"
+}
