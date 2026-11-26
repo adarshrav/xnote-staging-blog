@@ -1,8 +1,8 @@
 {
-  "name": "Studio",
+  "name": "Custom",
   "blurb": "Lead story beside a compact reading list.",
-  "template": "editorial",
-  "accent": "#18584c",
+  "template": "aurora",
+  "accent": "#0f4080",
   "accentDark": "#80d6b8",
   "fonts": {
     "body": "Source Serif 4",
